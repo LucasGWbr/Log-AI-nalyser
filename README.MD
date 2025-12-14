@@ -51,7 +51,7 @@ Siga os passos abaixo para subir o ambiente completo.
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/LucasGWbr/log-ai-nalyser.git]
+git clone https://github.com/LucasGWbr/Log-AI-nalyser.git
 cd log-ai-nalyser
 ```
 
